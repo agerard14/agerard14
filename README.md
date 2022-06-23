@@ -1,5 +1,6 @@
 <p align="center">
-  <img alt="InShot_20200901_165655622.jpg" height="200" src="https://www.flickr.com/photos/195911678@N03/52166750964/in/dateposted-public/">
+  <img alt="![image](https://user-images.githubusercontent.com/105055105/175198052-f0a1e535-9250-4fa2-9c91-3fdec9e18ef9.png)
+" height="200" src="https://www.flickr.com/photos/195911678@N03/52166750964/in/dateposted-public/">
   <p align="center">I'm Gerard Quincho Parco future <strong>Programmer</strong>
 
 <p align="center">In the future I would like to help people who are passionate about programming by offering them courses on everything I have learned.</p>
