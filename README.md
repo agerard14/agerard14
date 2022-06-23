@@ -31,16 +31,16 @@
 
 <h2>Skills:</h2>
 <div>
-  <img alt="Warden-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Warden-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Warden-Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img alt="Warden-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Mr.Robot-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Mr.Robot-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Mr.Robot-Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img alt="Mr.Robot-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 <h2>Learning:</h2>
 <div>
-  <img alt="Warden-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img alt="Warden-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
-  <img alt="Warden-Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="Warden-Emacs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">
+  <img alt="Mr.Robot-C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img alt="Mr.Robot-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
+  <img alt="Mr.Robot-Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="Mr.Robot-Vim" height="40" src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/vim-4.png"
 </div>
