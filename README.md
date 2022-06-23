@@ -27,6 +27,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agerard14&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agerard14&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://th.bing.com/th/id/R.1b3ef1992110c9dd6aade057b85899f1?rik=ZFDBMMVTo%2fnaMw&pid=ImgRaw&r=0">
 </div>
 
 <h2>Skills:</h2>
