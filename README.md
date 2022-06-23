@@ -43,6 +43,6 @@
   <img alt="Mr.Robot-Bash" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
   <img alt="Mr.Robot-Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img alt="Mr.Robot-Vim" height="40" src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/vim-4.png">
-  <img alt"Mr.Robot-JavaScript" height="40" src="https://th.bing.com/th/id/R.cc259a507d15a787298ca4e54e21204b?rik=gG8P2TT5D5%2bSZA&pid=ImgRaw&r=0">
-  <img alt="Mr.Robot-Python" height="40" src="https://www.bing.com/images/search?view=detailV2&ccid=ZW0rGJuz&id=753C35566967B4D387EC0835A24BA15B3A74E872&thid=OIP.ZW0rGJuzO9n3eNfcLx2bRwHaHa&mediaurl=https%3a%2f%2fcdn.icon-icons.com%2ficons2%2f1508%2fPNG%2f512%2fpython_104451.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.656d2b189bb33bd9f778d7dc2f1d9b47%3frik%3dcuh0OluhS6I1CA%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=icono+de+python&simid=608037515445863601&FORM=IRPRST&ck=61EEFAE6EC86F916459E62DE8825009E&selectedIndex=0">
+  <img alt"Mr.Robot-JavaScript" height="40" src="https://img2.gratispng.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg">
+  <img alt="Mr.Robot-Python" height="40" src="https://th.bing.com/th/id/R.b1c66d2b33344feb0f619c5804026f44?rik=Z1uP%2bdIli64kfg&pid=ImgRaw&r=0">
 </div>
