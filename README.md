@@ -36,6 +36,7 @@
   <img alt="Mr.Robot-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Mr.Robot-Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img alt="Mr.Robot-Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Mr.Robot-KaliLinux" height="40" src="https://atomrace.com/blog/wp-content/uploads/2017/10/kali-linux-logo-offensive-security-705x528.png">
 </div>
 
 <h2>Learning:</h2>
